@@ -29,3 +29,16 @@ Canonical hotlink base: https://tspaule.github.io/visory-brand-assets/
 - https://tspaule.github.io/visory-brand-assets/logo/visory-logo-white.svg
 - https://tspaule.github.io/visory-brand-assets/logo/visory-logo.svg
 - https://tspaule.github.io/visory-brand-assets/logo/visory-v.svg
+- https://tspaule.github.io/visory-brand-assets/specimens/components.png
+- https://tspaule.github.io/visory-brand-assets/specimens/deck-example.png
+- https://tspaule.github.io/visory-brand-assets/specimens/deck-layouts.png
+- https://tspaule.github.io/visory-brand-assets/specimens/diagrams.png
+- https://tspaule.github.io/visory-brand-assets/specimens/flyer.png
+- https://tspaule.github.io/visory-brand-assets/specimens/imagery-sheet.png
+- https://tspaule.github.io/visory-brand-assets/specimens/logo-grounds.png
+- https://tspaule.github.io/visory-brand-assets/specimens/palette.svg
+- https://tspaule.github.io/visory-brand-assets/specimens/type-specimen.png
+- https://tspaule.github.io/visory-brand-assets/specimens/values-presentation.png
+- https://tspaule.github.io/visory-brand-assets/specimens/video-document-intake.png
+- https://tspaule.github.io/visory-brand-assets/specimens/video-schads.png
+- https://tspaule.github.io/visory-brand-assets/specimens/vignettes.png
