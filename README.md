@@ -7,6 +7,11 @@ Canonical hotlink base: https://tspaule.github.io/visory-brand-assets/
 
 ## Files
 
+- https://tspaule.github.io/visory-brand-assets/logo/delphi/delphi-badge-motion.gif
+- https://tspaule.github.io/visory-brand-assets/logo/delphi/delphi-badge-motion.mov
+- https://tspaule.github.io/visory-brand-assets/logo/delphi/delphi-badge-motion.mp4
+- https://tspaule.github.io/visory-brand-assets/logo/delphi/delphi-badge-motion.webm
+- https://tspaule.github.io/visory-brand-assets/logo/delphi/delphi-badge.png
 - https://tspaule.github.io/visory-brand-assets/logo/favicon/apple-touch-icon.png
 - https://tspaule.github.io/visory-brand-assets/logo/favicon/favicon-16.png
 - https://tspaule.github.io/visory-brand-assets/logo/favicon/favicon-180.png
