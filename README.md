@@ -20,6 +20,8 @@ Canonical hotlink base: https://tspaule.github.io/visory-brand-assets/
 - https://tspaule.github.io/visory-brand-assets/logo/favicon/favicon-48.png
 - https://tspaule.github.io/visory-brand-assets/logo/favicon/favicon-512.png
 - https://tspaule.github.io/visory-brand-assets/logo/favicon/favicon.ico
+- https://tspaule.github.io/visory-brand-assets/logo/getvisory-logo-pink.svg
+- https://tspaule.github.io/visory-brand-assets/logo/getvisory-logo-white.svg
 - https://tspaule.github.io/visory-brand-assets/logo/visory-ai-badge.svg
 - https://tspaule.github.io/visory-brand-assets/logo/visory-ai-sparkle-pink.svg
 - https://tspaule.github.io/visory-brand-assets/logo/visory-ai-sparkle-white.svg
